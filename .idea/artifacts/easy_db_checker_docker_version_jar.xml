@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="easy-db-checker-docker-version:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/easy_db_checker_docker_version_jar</output-path>
+    <root id="archive" name="easy-db-checker-docker-version.jar">
+      <element id="module-output" name="easy-db-checker-docker-version" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/shyiko/mysql-binlog-connector-java/0.18.1/mysql-binlog-connector-java-0.18.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.0.5/mysql-connector-java-5.0.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
